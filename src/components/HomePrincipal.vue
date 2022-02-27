@@ -45,6 +45,10 @@
 </template>
 
 <style>
+.card{
+      background-color: #ddece2;
+
+}
 .up {
     display: flex;
     margin-left: 6%;

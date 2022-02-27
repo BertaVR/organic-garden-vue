@@ -1,7 +1,6 @@
 <template>
     <div class="team">
         <div class="person odd">
-            
             <img src="../assets/capy.jpg" alt="A capybara, the foundator" class="img-thumbnail" />
             <div>
                 <h3>The foundator</h3>
@@ -119,14 +118,16 @@
     grid-template-rows: 1fr 40px 1fr 40px 1fr;
     grid-template-columns: 1fr;
 }
+.person h3{margin-top: 20px;}
+
 .person {
     display: flex;
     align-items: flex-start;
+    background-color: #ddece2;
 }
-.person p{
-        text-align: justify;
-        margin: 40px;
-
+.person p {
+    text-align: justify;
+    margin: 40px;
 }
 .even {
     flex-direction: row-reverse;
@@ -139,25 +140,20 @@
     margin-top: 40px;
 }
 @media (min-width: 1280px) {
-  .person img {
-  filter: saturate(0.5);}
-
-    
+    .person img {
+        filter: saturate(0.5);
+    }
 }
 @media (max-width: 970px) {
-.person{flex-direction: column;
-align-items: center;
-justify-content: center;}
-
-
-
-    
+    .person {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 }
 .person img:hover {
-
     filter: grayscale(0%);
     filter: contrast(1.25);
     filter: saturate(1);
-
 }
 </style>
