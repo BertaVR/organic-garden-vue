@@ -1,20 +1,33 @@
 <template>
   <div class="about">
-    <UpperHeader></UpperHeader>
-    <navBar></navBar>
-    <h1>This is an about page</h1>
+    <main>
+      <UpperHeader></UpperHeader>
+      <navBar></navBar>
+      <h1>About</h1>
+      <h2>Who are we?</h2>
+      <AboutPage></AboutPage>
+      <MoreInfo />
+    </main>
+    <MyFooter />
   </div>
 </template>
 <script>
 
 import NavBar from "@/components/NavBar.vue";
-import UpperHeader from "../components/UpperHeader.vue";
+import UpperHeader from "@/components/UpperHeader.vue";
+import AboutPage from "@/components/AboutPage.vue"
+import MyFooter from "@/components/MyFooter.vue";
+import MoreInfo from "@/components/MoreInfo.vue";
+
 
 export default {
   name: "About",
   components: {
     NavBar,
-    UpperHeader
-},
+    UpperHeader,
+    AboutPage,
+    MyFooter,
+    MoreInfo
+  },
 };
 </script>

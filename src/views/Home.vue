@@ -7,7 +7,7 @@
     <main>
       <div class="content">
         <HomePrincipal />
-        <HomeSecondary />
+        <MoreInfo />
       </div>
     </main>
     <MyFooter />
@@ -19,8 +19,9 @@
 import NavBar from "@/components/NavBar.vue";
 import UpperHeader from "@/components/UpperHeader.vue";
 import HomePrincipal from "@/components/HomePrincipal.vue"
-import HomeSecondary from "@/components/HomeSecondary.vue"
-import MyFooter from "../components/MyFooter.vue"
+import MoreInfo from "@/components/MoreInfo.vue"
+import MyFooter from "@/components/MyFooter.vue"
+
 
 export default {
   name: "Home",
@@ -28,9 +29,9 @@ export default {
     UpperHeader,
     NavBar,
     HomePrincipal,
-    HomeSecondary,
     MyFooter,
-  },
+    MoreInfo
+},
 };
 </script>
 <style>
