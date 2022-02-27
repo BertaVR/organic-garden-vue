@@ -22,14 +22,14 @@ a.link-header {
 div.page-header {
     height: 400px;
     position: relative;
-    color: #ffffff;
+    color: #062717;
     display: flex;
     justify-content: center;
     background-image: linear-gradient(
-            rgba(255, 255, 255, 0.2),
-            rgba(255, 255, 255, 0.3)
+            rgba(255, 255, 255, 0.8),
+            rgba(255, 255, 255, 0.98)
         ),
-        url(../assets/header.png);
+        url(../assets/header.jpg);
     background-size: cover;
     top: 0px;
     right: 0px;
@@ -40,9 +40,7 @@ div.page-header {
 .bold {
     font-weight: 700;
 }
-div.page-header:hover {
-    background-image: url(../assets/header.png);
-}
+
 </style>
 <script>
 // @ is an alias to /src
