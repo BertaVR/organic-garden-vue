@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div class="card">
+        <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <img class="card-img-top" src="../assets/vegetable.png" alt="Card image cap" />
@@ -13,7 +13,7 @@
                 <a href="#" class="btn btn-dark">Read More</a>
             </div>
         </div>
-        <div class="card">
+        <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
@@ -27,7 +27,7 @@
                 <a href="#" class="btn btn-dark">Read More</a>
             </div>
         </div>
-        <div class="card">
+        <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
@@ -53,11 +53,11 @@
     flex-direction: column;
     /*flex-basis: 80vw;*/
 }
-.card p {
+.card-up p {
     text-align: justify;
 }
 
-.card {
+.card-up {
     margin-top: 18px;
 }
 .card-img-top {
@@ -65,7 +65,7 @@
     align-self: center;
 } }
 @media  (min-width: 990px){
-    .card {
+    .card-up {
     max-width: 70vw;
 }
 
@@ -76,7 +76,7 @@
         justify-items: center;
         flex-direction: row;
     }
-    .card {
+    .card-up {
         margin: 5px;
     }
 }
