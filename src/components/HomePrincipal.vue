@@ -46,7 +46,10 @@
 
 <style>
 .up {
-    display: flex;}
+    display: flex;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 45px;}
 
 .card-up p {
     text-align: justify;
@@ -66,9 +69,11 @@
     max-width: 80%;
     align-self: center;
 } }
+
 @media  (min-width: 990px){
     .card-up {
     max-width: 70vw;
+    
 }
 
 }
