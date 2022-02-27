@@ -1,13 +1,16 @@
 <template>
   <div class="home">
+    <header>
     <UpperHeader />
     <NavBar />
+    </header>
     <main>
       <div class="content">
         <HomePrincipal />
         <HomeSecondary />
       </div>
     </main>
+    <MyFooter />
   </div>
 </template>
 
@@ -17,6 +20,7 @@ import NavBar from "@/components/NavBar.vue";
 import UpperHeader from "@/components/UpperHeader.vue";
 import HomePrincipal from "@/components/HomePrincipal.vue"
 import HomeSecondary from "@/components/HomeSecondary.vue"
+import MyFooter from "../components/MyFooter.vue"
 
 export default {
   name: "Home",
@@ -24,15 +28,11 @@ export default {
     UpperHeader,
     NavBar,
     HomePrincipal,
-    HomeSecondary
+    HomeSecondary,
+    MyFooter,
   },
 };
 </script>
 <style>
-@media (min-width: 1280px) {
-  .content {
-    display: grid;
-    grid-template-rows: 1fr 200px;
-  }
-}
+.card-title{color: rgb(74, 75, 74);}
 </style>
