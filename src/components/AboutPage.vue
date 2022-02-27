@@ -144,7 +144,17 @@
 
     
 }
+@media (max-width: 970px) {
+.person{flex-direction: column;
+align-items: center;
+justify-content: center;}
+
+
+
+    
+}
 .person img:hover {
+
     filter: grayscale(0%);
     filter: contrast(1.25);
     filter: saturate(1);
