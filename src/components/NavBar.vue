@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark lila fixed">
+  <nav class="navbar navbar-expand-lg navbar-dark verde fixed">
     <a class="navbar-brand" href="#">
       Organic Garden
       <img src="../assets/vegetable.png" class="logo-navbar" />
@@ -23,7 +23,8 @@
 .logo-navbar {
   width: 35px;
 }
-.lila {
-  background-color: #4d3863;
+.verde {
+  background-color: #255a23;
 }
+.navbar{padding-left:20px}
 </style>
