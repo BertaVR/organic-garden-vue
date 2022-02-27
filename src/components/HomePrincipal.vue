@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="up">
         <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
@@ -45,17 +45,19 @@
 </template>
 
 <style>
-.container {
+.up {
     display: flex;}
+
+.card-up p {
+    text-align: justify;
+}
 @media (max-width: 1280px){
-.container {
+.up {
     align-items: center;
     flex-direction: column;
     /*flex-basis: 80vw;*/
 }
-.card-up p {
-    text-align: justify;
-}
+
 
 .card-up {
     margin-top: 18px;
@@ -72,7 +74,7 @@
 }
 
 @media (min-width: 1280px)  {
-    .container {
+    .up {
         justify-items: center;
         flex-direction: row;
     }
