@@ -64,12 +64,12 @@
     max-width: 80%;
     align-self: center;
 } }
-/*@media  (min-width: 990px){
+@media  (min-width: 990px){
     .card {
     max-width: 70vw;
 }
 
-}*/
+}
 
 @media (min-width: 1280px)  {
     .container {
