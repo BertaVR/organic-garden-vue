@@ -1,24 +1,10 @@
-# organic-garden-vue
+# Organic garden
+## Objetivo
 
-## Project setup
-```
-npm install
-```
+Aprender a maquetar usando el framework vue y con ayyuda de otras herramientas como grid, flexbox y bootsrap.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Cuál era la tarea
+Basarme en [Este template](https://freewebsitetemplates.com/preview/gardeningwebsitetemplate/index.html) para hacer un home y un about de la página. El home tiene que ser similar (no igual), el about es totalmente libre.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Link del proyecto desplegado en netlify
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
