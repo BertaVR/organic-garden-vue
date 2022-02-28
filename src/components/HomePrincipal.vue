@@ -3,7 +3,7 @@
         <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image cap" />
+                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image of a kid" />
                 <p class="card-text">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
@@ -17,7 +17,7 @@
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
-                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image cap" />
+                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image of a kid" />
                 <p class="card-text">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
@@ -31,7 +31,7 @@
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
-                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image cap" />
+                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image of a kid" />
                 <p class="card-text">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,

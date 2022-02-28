@@ -3,7 +3,7 @@
     <a class="link-header" href="#">
         <div class="p-5 text-center bg-image page-header">
             <h1>
-                <img class="mb-3 title" src="../assets/title.png" />
+                <img class="mb-3 title" alt="Header, image of leaves" src="../assets/title.png" />
                 <h1 class="mb-3 bold">Join our organic farm</h1>
             </h1>
         </div>

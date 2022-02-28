@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark verde fixed">
     <a class="navbar-brand" href="#">
       Organic Garden
-      <img src="../assets/vegetable.png" class="logo-navbar" />
+      <img src="../assets/vegetable.png" alt="logo" class="logo-navbar" />
     </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
