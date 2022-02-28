@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="card-and-title">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">Contact</h5>
 
             <div class="card card-down">
                 <div class="card-body">
@@ -92,7 +92,18 @@
 h6 {
     font-weight: bold;
 }
-@media (max-width: 990px) {
+
+@media (max-width: 340px) {
+    .down {
+        margin-top: 30px;
+        display: grid;
+        grid-template-rows: 3fr 3fr 2fr 2fr;
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+    .card-and-title{width: 100vw};
+}
+@media (min-width: 340px) and (max-width: 990px) {
     .down {
         margin-top: 30px;
         display: grid;
@@ -138,8 +149,8 @@ h6 {
         flex-grow: 1;
     }
     .reduce {
-    max-width: 40%;
-    align-self: center;
-}
+        max-width: 40%;
+        align-self: center;
+    }
 }
 </style>
