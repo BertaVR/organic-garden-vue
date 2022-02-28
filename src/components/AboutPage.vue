@@ -3,7 +3,7 @@
         <div class="person odd">
             <img src="../assets/capy.jpg" alt="A capybara, the foundator" class="img-thumbnail" />
             <div>
-                <h3>The foundator</h3>
+                <h3>The founder</h3>
                 <p>
                     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
                     doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
