@@ -1,19 +1,23 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark verde fixed">
+  <nav class="navbar navbar-expand-lg navbar-dark verde sticky sticky-top">
+      <div class="container-fluid">
+
     <router-link class="navbar-brand" to="/">
       Organic Garden
       <img src="../assets/vegetable.png" alt="logo" class="logo-navbar" />
    </router-link>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+
+    <button class="navbar-toggler" style="margin-right:5px !important;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+    <div class="collapse navbar-collapse top_nav" id="navbarSupportedContent">
       <div class="navbar-nav">
         <router-link class="nav-item nav-link" exact-active-class="active" to="/">Home</router-link>
         <router-link class="nav-item nav-link" exact-active-class="active" to="about">About</router-link>
       </div>
     </div>
-    
+     </div>
+ 
   </nav>
 </template>
 <script>
@@ -26,5 +30,7 @@
 .verde {
   background-color: #255a23;
 }
-.navbar{padding-left:20px}
+.navbar-brand{padding-left:20px}
+
+
 </style>
