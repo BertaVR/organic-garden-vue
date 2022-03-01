@@ -5,6 +5,8 @@
     </header>
     <NavBar />
     <main>
+      <h1>Meet our family</h1>
+      <h2> and join us</h2>
       <div class="content">
         <HomePrincipal />
         <MoreInfo />
@@ -37,5 +39,8 @@ export default {
 <style>
 .card-title {
   color: rgb(74, 75, 74);
+}
+h1 {
+  padding-top: 25px;
 }
 </style>
