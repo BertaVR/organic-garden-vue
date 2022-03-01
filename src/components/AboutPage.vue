@@ -139,11 +139,7 @@
     object-fit: cover;
     margin-top: 40px;
 }
-@media (min-width: 1280px) {
-    .person img {
-        filter: saturate(0.5);
-    }
-}
+
 @media (max-width: 970px) {
     .person {
         flex-direction: column;
@@ -154,7 +150,7 @@
 .person img:hover {
     filter: grayscale(0%);
     filter: contrast(1.25);
-    filter: saturate(1);
+    filter: saturate(1.25);
 }
 h1{padding-top: 25px;}
 </style>
