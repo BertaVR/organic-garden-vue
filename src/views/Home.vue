@@ -1,9 +1,9 @@
 <template>
   <div class="home">
     <header>
-    <UpperHeader />
-    <NavBar />
+      <UpperHeader />
     </header>
+    <NavBar />
     <main>
       <div class="content">
         <HomePrincipal />
@@ -31,9 +31,11 @@ export default {
     HomePrincipal,
     MyFooter,
     MoreInfo
-},
+  },
 };
 </script>
 <style>
-.card-title{color: rgb(74, 75, 74);}
+.card-title {
+  color: rgb(74, 75, 74);
+}
 </style>

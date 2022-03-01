@@ -1,8 +1,10 @@
 <template>
   <div class="about">
     <main>
-      <UpperHeader></UpperHeader>
-      <navBar></navBar>
+      <header>
+        <UpperHeader />
+      </header>
+      <navBar />
       <h1>About</h1>
       <h2>Who are we?</h2>
       <AboutPage></AboutPage>

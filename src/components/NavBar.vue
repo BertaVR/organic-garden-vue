@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark verde sticky sticky-top">
+  <nav class="navbar navbar-expand-lg navbar-dark verde sticky-top">
       <div class="container-fluid">
 
     <router-link class="navbar-brand" to="/">
