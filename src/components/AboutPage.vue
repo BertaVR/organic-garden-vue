@@ -156,4 +156,5 @@
     filter: contrast(1.25);
     filter: saturate(1);
 }
+h1{padding-top: 25px;}
 </style>
