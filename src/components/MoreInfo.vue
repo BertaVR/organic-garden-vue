@@ -22,10 +22,6 @@
                 </div>
                 <img class="card-img-top reduce" src="../assets/resources/magazine.webp" alt="Card image cap" />
                 <div class="card-body">
-                    <span
-                        class="card-text"
-                    >This is just a place holder. This is just a place holder..</span>
-
                     <a href="#" class="btn btn-primary">View all photos</a>
                 </div>
             </div>
