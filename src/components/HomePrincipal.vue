@@ -3,8 +3,8 @@
         <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image of a kid" />
-                <p class="card-text">
+                <img class="card-img-top" src="../assets/resources/señorgranja.webp" alt="Card image of a kid" />
+                <p class="card-text main-card-p">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
                     so you can see what the site would look like. This is just a place holder, so you can see what the site would look like.
@@ -17,8 +17,8 @@
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
-                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image of a kid" />
-                <p class="card-text">
+                <img class="card-img-top" src="../assets/resources/eggplants.webp" alt="Card image of a kid" />
+                <p class="card-text main-card-p">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
                     so you can see what the site would look like. This is just a place holder, so you can see what the site would look like.
@@ -31,8 +31,8 @@
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
-                <img class="card-img-top" src="../assets/vegetable.png" alt="Card image of a kid" />
-                <p class="card-text">
+                <img class="card-img-top" src="../assets/resources/horse.webp" alt="Card image of a kid" />
+                <p class="card-text main-card-p">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
                     so you can see what the site would look like. This is just a place holder, so you can see what the site would look like.
@@ -103,4 +103,6 @@
     color: white;
     background-color: #3e993b;
 }
+.card-img-top{padding-top: 20px; ;}
+.main-card-p{padding-top: 30px;}
 </style>
