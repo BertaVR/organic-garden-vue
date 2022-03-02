@@ -74,7 +74,7 @@
     align-self: center;
 } }
 
-@media  (min-width: 990px){
+@media  (min-width: 989px){
     .card-up {
     max-width: 70vw;
     

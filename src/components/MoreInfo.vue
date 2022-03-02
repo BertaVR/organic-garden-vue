@@ -9,7 +9,7 @@
                     This is just a placeholder.
                     <br />This is just a placeholder.
                 </p>
-                <img class="card-img-top reduce" src="../assets/vegetable.png" alt="Card image cap" />
+                <img class="card-img-top reduce" src="../assets/resources/girls.webp" alt="Card image cap" />
                 <div class="card-body"></div>
             </div>
         </div>
@@ -20,7 +20,7 @@
                     <br />
                     <h6 class="card-subtitle mb-2 text-muted">This is just a place holder.</h6>
                 </div>
-                <img class="card-img-top reduce" src="../assets/vegetable.png" alt="Card image cap" />
+                <img class="card-img-top reduce" src="../assets/resources/magazine.webp" alt="Card image cap" />
                 <div class="card-body">
                     <span
                         class="card-text"
@@ -133,7 +133,7 @@ h6 {
     padding-top: 5px;
     flex-grow: 1;
 }
-@media (min-width: 990px) {
+@media (min-width: 995px) {
     .down {
         margin-top: 55px;
         display: grid;
