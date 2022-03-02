@@ -9,7 +9,7 @@
                     This is just a placeholder.
                     <br />This is just a placeholder.
                 </p>
-                <img class="card-img-top reduce" src="../assets/resources/girls.webp" alt="Card image cap" />
+                <img class="card-img-top reduce-less" src="../assets/resources/girls.webp" alt="Card image cap" />
                 <div class="card-body"></div>
             </div>
         </div>
@@ -25,8 +25,6 @@
                     <span
                         class="card-text"
                     >This is just a place holder. This is just a place holder..</span>
-                    <br />
-                    <br />
 
                     <a href="#" class="btn btn-primary">View all photos</a>
                 </div>
@@ -119,6 +117,8 @@ h6 {
     margin-top: 18px;
     display: flex;
     flex-direction: column;
+    max-height: 4
+    0%;
 }
 .card-body {
     display: flex;
@@ -148,8 +148,12 @@ h6 {
         align-self: stretch;
         flex-grow: 1;
     }
-    .reduce {
-        max-width: 40%;
+    .reduce-less {
+        max-width: 65%;
+        align-self: center;
+    }
+        .reduce {
+        max-width: 59%;
         align-self: center;
     }
 }
