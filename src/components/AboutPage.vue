@@ -1,7 +1,7 @@
 <template>
     <div class="team">
         <div class="person odd">
-            <img src="../assets/resources/capy.jpg" alt="A capybara, the foundator" class="img-thumbnail" />
+            <img src="../assets/resources/capybara.webp" alt="A capybara, the foundator" class="img-thumbnail" />
             <div>
                 <h3>The founder</h3>
                 <p>
@@ -37,7 +37,7 @@
         <hr />
 
         <div class="person even">
-            <img src="../assets/resources/caracal.jpg" alt="A caracal, the president" class="img-thumbnail" />
+            <img src="../assets/resources/caracal.webp" alt="A caracal, the president" class="img-thumbnail" />
 
             <div>
                 <h3>The President</h3>
@@ -74,7 +74,7 @@
         <hr />
 
         <div class="person odd pig">
-            <img src="../assets/resources/pig.jpg" alt="A pig, the vice-president" class="img-thumbnail" />
+            <img src="../assets/resources/monkey.webp" alt="A monkey, the vice-president" class="img-thumbnail" />
 
             <div>
                 <h3>The vice-president</h3>
