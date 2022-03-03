@@ -145,7 +145,7 @@ h6 {
         flex-grow: 1;
     }
     .reduce-less {
-        max-width: 65%;
+        max-width: 62%;
         align-self: center;
     }
         .reduce {
