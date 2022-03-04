@@ -22,7 +22,7 @@
                 </div>
                 <img class="card-img-top reduce" src="../assets/resources/magazine.webp" alt="Card image cap" />
                 <div class="card-body">
-                    <a href="#" class="btn btn-primary">View all photos</a>
+                    <a class="btn btn-primary">View all photos</a>
                 </div>
             </div>
         </div>
@@ -35,12 +35,12 @@
                 <div class="card-body">
                     <h6 class="card-subtitle mb-2 text-muted">This is just a place holder.</h6>
                     <span class="card-text">This is just a place holder.</span>
-                    <a href="#" class="card-link">(+36) 924-068-207</a>
+                    <a  class="card-link">(+36) 924-068-207</a>
                 </div>
                 <div class="card-body">
                     <h6 class="card-subtitle mb-2 text-muted">This is just a place holder.</h6>
                     <span class="card-text">This is just a place holder.</span>
-                    <a href="#" class="card-link">(+36) 924-068-207</a>
+                    <a class="card-link">(+36) 924-068-207</a>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
                             <span class="card-text">Email:</span>
                         </b>
                         <br />
-                        <a href="#" class="card-link">company@email.com</a>
+                        <a class="card-link">company@email.com</a>
                         <br />
                     </div>
                     <div>
@@ -72,7 +72,7 @@
                             <span class="card-text">Phone:</span>
                         </b>
                         <br />
-                        <a href="#" class="card-link">117-683-9187-000</a>
+                        <a  class="card-link">117-683-9187-000</a>
                         <br />
                     </div>
                 </div>
