@@ -10,7 +10,7 @@
                     so you can see what the site would look like. This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder.
                 </p>
-                <a href="#" class="btn btn-dark">Read More</a>
+                <a class="btn btn-dark">Read More</a>
             </div>
         </div>
         <div class="card card-up">
@@ -24,7 +24,7 @@
                     so you can see what the site would look like. This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder.
                 </p>
-                <a href="#" class="btn btn-dark">Read More</a>
+                <a class="btn btn-dark">Read More</a>
             </div>
         </div>
         <div class="card card-up">
@@ -38,7 +38,7 @@
                     so you can see what the site would look like. This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder.
                 </p>
-                <a href="#" class="btn btn-dark">Read More</a>
+                <a class="btn btn-dark">Read More</a>
             </div>
         </div>
     </div>

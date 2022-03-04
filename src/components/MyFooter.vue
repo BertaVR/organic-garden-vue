@@ -5,16 +5,16 @@
         <section class="mb-4">
 
 
-      <a class="btn btn-outline-light btn-floating m-1 media fb" href="#!" role="button">
+      <a class="btn btn-outline-light btn-floating m-1 media fb" role="button">
 <i class="fa fa-facebook fa-xl" aria-hidden="true"></i></a>
 
 
-      <a class="btn btn-outline-light btn-floating m-1 media tw" href="#!" role="button"
+      <a class="btn btn-outline-light btn-floating m-1 media tw" role="button"
         ><i class="fa fa-twitter fa-xl" aria-hidden="true"></i>
 </a>
 
 
-      <a class="btn btn-outline-light btn-floating m-1 media gh" href="#!" role="button"
+      <a class="btn btn-outline-light btn-floating m-1 media gh" role="button"
         ><i class="fa fa-github" aria-hidden="true"></i>
 </a>
     </section>
