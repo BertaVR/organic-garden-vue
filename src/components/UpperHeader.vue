@@ -29,7 +29,7 @@ div.page-header {
     align-content: center;
     background-image: linear-gradient(
             rgba(255, 255, 255, 0.8),
-            rgba(255, 255, 255, 0.98)
+            rgba(248, 253, 245, 0.98)
         ),
         url(../assets/header.jpg);
     background-size: cover;
