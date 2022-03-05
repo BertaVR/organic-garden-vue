@@ -22,7 +22,7 @@
                 </div>
                 <img class="card-img-top reduce" src="../assets/resources/girls.webp" alt="Card image cap" />
                 <div class="card-body">
-                    <a class="btn btn-primary">View all photos</a>
+                    <a class="btn btn-dark">View all photos</a>
                 </div>
             </div>
         </div>
