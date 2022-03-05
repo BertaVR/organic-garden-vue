@@ -9,7 +9,7 @@
                     This is just a placeholder.
                     <br />This is just a placeholder.
                 </p>
-                <img class="card-img-top reduce-less" src="../assets/resources/girls.webp" alt="Card image cap" />
+                <img class="card-img-top reduce-less" src="../assets/resources/magazine.webp" alt="Card image cap" />
                 <div class="card-body"></div>
             </div>
         </div>
@@ -20,7 +20,7 @@
                     <br />
                     <h6 class="card-subtitle mb-2 text-muted">This is just a place holder.</h6>
                 </div>
-                <img class="card-img-top reduce" src="../assets/resources/magazine.webp" alt="Card image cap" />
+                <img class="card-img-top reduce" src="../assets/resources/girls.webp" alt="Card image cap" />
                 <div class="card-body">
                     <a class="btn btn-primary">View all photos</a>
                 </div>
