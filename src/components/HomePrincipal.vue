@@ -3,7 +3,7 @@
         <div class="card card-up">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <img class="card-img-top" src="../assets/resources/señorgranja.webp" alt="Card image of a kid" />
+                <img class="card-img-top" src="../assets/resources/señorgranja.webp" alt="Card image of a man in a farm" />
                 <p class="card-text main-card-p">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
@@ -17,7 +17,7 @@
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
-                <img class="card-img-top" src="../assets/resources/eggplants.webp" alt="Card image of a kid" />
+                <img class="card-img-top" src="../assets/resources/eggplants.webp" alt="Card image of eggplants" />
                 <p class="card-text main-card-p">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
@@ -31,7 +31,7 @@
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
 
-                <img class="card-img-top" src="../assets/resources/horse.webp" alt="Card image of a kid" />
+                <img class="card-img-top" src="../assets/resources/horse.webp" alt="Card image of a horse with a young lady" />
                 <p class="card-text main-card-p">
                     This is just a place holder, so you can see what the site would look like.
                     This is just a place holder, so you can see what the site would look like. This is just a place holder,
